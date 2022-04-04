@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 $("#alphabaetRange").on("click", function () {
     
-    $("#dataTable tr:not(:first-child)").filter(function (e) {
+    $("#dataTable tr:not(:first-child)").filter(function () {
 
         var click = $(this).find("td:nth-child(2)").text();
         
@@ -61,7 +61,7 @@ $("#alphabaetRange").on("click", function () {
 
 $("#alphaRange").on("click", function () {
     
-    $("#dataTable tr:not(:first-child)").filter(function (e) {
+    $("#dataTable tr:not(:first-child)").filter(function () {
 
         var click = $(this).find("td:nth-child(2)").text();
         
