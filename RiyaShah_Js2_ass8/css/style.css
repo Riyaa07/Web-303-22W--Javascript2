@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: monospace;
+}
+/* table css */
+
+table{
+    width:90%;
+    margin-left: 4%;
+}
+
+th {
+    background: #efa6a6;
+    padding: 5px;
+}
+
+td {
+    background: #e1cccc;
+    padding: 8px;
+    text-align: center;
+}
+
+.color{
+    background-color: darkgreen;
+    color: white;
+}
+
+#myInput{
+    text-align: center;
+    margin-bottom: 2%;
+    align-content: center;
+}
