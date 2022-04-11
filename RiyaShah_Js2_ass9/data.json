@@ -1,0 +1,67 @@
+
+   [
+       
+        {
+            "firstname" : "Sandy",
+            "lastname" : "Not mentioned",
+            "occupation" : "football player",
+            "description": "Dissociative Identity Disorder by hearing word Indian",
+             "Fiance" : "Ganga Patel",
+             "BirthDate" :"1967-09-09"
+        },
+
+        {
+            "firstname": "Buntty",
+            "lastname": "Mittal",
+            "occupation" : "Rapper",
+            "description": "Take out his anger by singing curse word song in native language",
+            "Fiance" : "Saraswati Patel",
+            "BirthDate" :"1967-02-05"
+        },
+        
+        {
+            "firstname": "Teddy",
+            "lastname" : "Chaugule",
+            "occupation" : "Car racer",
+            "description": "congenitally confused by words",
+            "Fiance" : "Januna Patel",
+            "BirthDate" :"1978-12-17"
+        },
+
+        {
+            "firstname": "Ganga",
+            "lastname" : "Patel",
+            "occupation" : "Doctor",
+            "description": "Daughter of billionaire ",
+            "Fiance" : "Sandy",
+            "BirthDate" :"1985-08-11"
+        },
+
+        {
+            "firstname": "Jamuna",
+            "lastname" : "Patel",
+            "occupation" : "Worked in Wax statue museum ",
+            "description": "Daughter of billionaire ",
+            "Fiance" : "Teddy Chagule",
+            "BirthDate" :"1972-03-04"
+        },
+
+        {
+            "firstname": "Saraswati",
+            "lastname" : "Patel",
+            "occupation" : "Orphan age",
+            "description": "Daughter of billionaire ",
+            "Fiance" : "Bunty Mittal",
+            "BirthDate" :"1979-11-20"
+        },
+
+        {
+            "firstname": "Urja",
+            "lastname" : "Nagre",
+            "occupation" : "underworld lord",
+            "description": "Father of 3 girls Ganga , Jamuna , Sraswati",
+            "Fiance" : "Wife name never mentioned",
+            "BirthDate" :"1957-02-01"
+        }
+
+    ]
