@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>
+        Riya Shah
+    </h1>
+
+    <form action="/login/" method="post" name="myform" id="login">
+
+        <div  id="main">
+
+        <div class="name">
+            <label for="uname">User Name:</label><br>
+            <input type="text" name="uname" id="uname" value="" size="30" required>
+        </div>
+
+        <br/><br/>
+
+        <div class="password">
+            <label for="password" class="required">Password:</label>
+            <input type="password" name="password" id="password"  required>
+            <span class="error_form" id="pass_error_message"></span>
+        </div>
+
+        <br/><br/>
+
+        <div class="conf-password">
+            <label for="conf-password" class="required">Confirm password:</label>
+            <input type="password" name="conf-password" id="conf-password" required>
+            <span class="error_form" id="conf-pass_error_message"></span>
+        </div>
+
+        <br/><br/>
+
+        <div class="checkbox">
+            <input type="checkbox" id="accepted" name="accepted" required>
+            <label for="accepted"> I accept the terms of service</label><br>
+        </div>
+
+        <br/><br/>
+
+
+        <div class="dropdown">
+        <label for="country">Country:</label>
+        <select name="country" id="country"></select>
+        </div> 
+
+          <br><br>
+
+        <div class="register">
+            <input type="submit" value="Submit" id="submit">
+        </div>
+
+    </div>
+    </form>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/countries.js"></script>
+</body>
+
+</html>

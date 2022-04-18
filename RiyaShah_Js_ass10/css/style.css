@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(241, 202, 208);
+    background: linear-gradient(to top, #f78aaa 0%, #dedae7 100%);
+ }
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+    max-width: 980px;
+	min-width: 640px;
+    background-color: white; 
+    box-shadow: 2.2px 2.4px  2.5px #d34967;
+    padding-left: 3%;
+    border-radius: 10px;
+    border: 3px solid rgb(228, 10, 94);
+}
+
+
+form label {
+    display: inline-block;
+    width: 1000px;
+    font-weight: light;
+    font-size: 1.5em;
+}
+
+form input {
+    margin-bottom: 1px;
+    border-bottom-left-radius: 1%;
+    -webkit-border-bottom-left-radius: 1%;
+}
+
+.register{
+    text-align: center;
+    height:10em;
+}
+
+input[type=submit] {
+    height: 1.5em;
+    font-size: 1.3em;
+}
